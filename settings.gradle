@@ -1,0 +1,8 @@
+include ':p0072layout_prop'
+include ':p0061layouts'
+include ':p0051layoutfiles'
+include ':p0180contraintlayoutintro'
+include ':p0041basicviews'
+include ':p0031firstproject'
+include ':app'
+rootProject.name = "Android lessons"
