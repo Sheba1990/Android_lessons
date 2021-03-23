@@ -12,12 +12,13 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/p0031firstproject" />
-            <option value="$PROJECT_DIR$/p0041basicviews" />
-            <option value="$PROJECT_DIR$/p0051layoutfiles" />
-            <option value="$PROJECT_DIR$/p0061layouts" />
-            <option value="$PROJECT_DIR$/p0072layout_prop" />
-            <option value="$PROJECT_DIR$/p0180contraintlayoutintro" />
+            <option value="$PROJECT_DIR$/p0031_firstproject" />
+            <option value="$PROJECT_DIR$/p0041_basicviews" />
+            <option value="$PROJECT_DIR$/p0051_layoutfiles" />
+            <option value="$PROJECT_DIR$/p0061_layouts" />
+            <option value="$PROJECT_DIR$/p0072_layout_prop" />
+            <option value="$PROJECT_DIR$/p0081_viewbyld" />
+            <option value="$PROJECT_DIR$/p0180_contraintlayoutintro" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
